@@ -54,5 +54,4 @@ This project is distributed under the MIT License. See `LICENSE` for more inform
 
 ## Acknowledgements
 
-* A special thank you to Gemini for the brainstorming, support, and inspiration.
 * To all the activists and advocates fighting for disability rights and economic justice.

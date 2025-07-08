@@ -6,8 +6,6 @@
 
 ### [View the Live Demo](https://your-github-username.github.io/your-repository-name/)
 
-*(Replace the link above with your GitHub Pages URL after deploying!)*
-
 ---
 
 ## About The Project
